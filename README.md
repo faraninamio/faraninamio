@@ -1,61 +1,93 @@
-# Faran Inam 👋
+<h1 align="center">FARAN INAM</h1>
 
-> I build in code and I design in lines.
+<p align="center">
+  💻 Software Developer &nbsp; | &nbsp; 📐 Technical Designer
+</p>
 
-🧠 Computer enthusiast  
-💻 Passionate about programming  
-📐 Working with AutoCAD & technical design  
-🚀 Always learning, always building  
+<p align="center">
+  🧠 Systems Thinking • ⚙️ Structured Problem Solving • 📈 Continuous Improvement
+</p>
 
----
 
-## 🚀 About Me
-
-I enjoy understanding how systems work — whether it's software architecture or architectural drawings.
-
-For me:
-- Code is structured thinking.
-- Design is problem-solving.
-- Learning is continuous.
-
-I like building practical projects that improve real-world skills.
 
 ---
 
-## 🛠️ Tech & Tools
+## 👋 Overview
+
+I work at the intersection of software systems and technical drafting.
+
+Whether developing a Python application or refining an AutoCAD layout,  
+my approach remains consistent:
+
+**Structure. Precision. Clarity.**
+
+I focus on building strong technical foundations and practical skills through real-world implementation.
+
+---
+
+## 🧠 Engineering Mindset
+
+Technology is organized logic applied with intention.
+
+- 🧩 Code represents structured reasoning  
+- 📐 Design represents controlled problem-solving  
+- 🔍 Learning is continuous iteration  
+- ⚙️ Systems thinking connects disciplines  
+
+I value depth over shortcuts and discipline over trends.
+
+---
+
+## 🛠️ Technical Stack
 
 ### 💻 Programming
-- Python
-- JavaScript
-- Git & GitHub
-- Basic Web Development
+
+- Python  
+- JavaScript  
+- Git & GitHub  
+- HTML & CSS  
+- Core Programming Fundamentals  
 
 ### 📐 Design & Drafting
-- AutoCAD
-- Technical Drawings
-- House Planning Concepts
 
-
-## 🧪 Current Focus
-
-- Improving programming fundamentals  
-- Building real-world coding projects  
-- Enhancing AutoCAD precision & workflow  
-- Exploring how software and engineering connect  
+- AutoCAD  
+- Technical Drawings  
+- Residential Planning Concepts  
+- Dimensional Accuracy & Workflow Optimization  
 
 ---
 
-## 🧭 Personal Philosophy
+## 🚀 Current Development Focus
 
-> If you want to truly understand something, try building it.
+- Strengthening software fundamentals  
+- Writing cleaner and more maintainable code  
+- Building practical end-to-end projects  
+- Improving drafting precision and workflow efficiency  
+- Exploring how engineering principles apply to software systems  
 
-Curiosity drives everything I do.
+Each project is an opportunity to refine thinking and execution.
 
 ---
 
-### 📫 Connect With Me
-- GitHub: https://github.com/faraninamio
+## 🧭 Philosophy
+
+> If you truly want to understand something — build it.
+
+Consistency compounds.  
+Precision scales.  
+Mastery requires patience.
 
 ---
 
-⭐ Thanks for visiting my profile.
+## 📫 Contact
+
+If you would like to collaborate or connect:
+
+- 🌐 GitHub: https://github.com/faraninamio  
+- 📧 Email: faraninam.io@gmail.com
+
+---
+
+<p align="center">
+  ⭐ Thank you for visiting.
+</p>
